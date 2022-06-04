@@ -1,5 +1,6 @@
 '''
 Author: nkarimi@linux.com
+Approach: incremental development - debugging by adding and testing only a small amount of code at a time.
 '''
 
 def factorial(n):
