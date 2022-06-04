@@ -10,9 +10,9 @@ This repository will document my coding practice journey.
 
 **TODO
 ### Introductory coding Challenges
-- [ ] Factorial
-### The factorial of a number is the function that multiplies the number by every natural number below it.
+- [ x ] Factorial
+ The factorial of a number is the function that multiplies the number by every natural number below it.
 `n!` = > n!=1.2.3....n=`Product of the first n positive integers =  n(n-1)(n-2)…………………….(3)(2)(1)`
 >eg. 4! = 4x3x2x1=24
 
-- [ ] Fibonnaci
+- [ x ] Fibonnaci
